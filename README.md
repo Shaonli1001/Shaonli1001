@@ -88,10 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shaonli1001/Shaonli1001/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJvOTZjemh0c2UwcmVwbDVjbjhhOWRlbnUwZzA4Y3F0OHpkN2RhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif"  />
 </div>
